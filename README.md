@@ -26,7 +26,8 @@ brew cask install \
   homebrew/cask/docker \
   homebrew/cask/jetbrains-toolbox \
   slack \
-  telegram
+  telegram \
+  transmission
 ```
 
 ### 4. Other, automatic
