@@ -25,7 +25,8 @@ brew cask install \
   homebrew/cask/hyper \
   homebrew/cask/docker \
   homebrew/cask/jetbrains-toolbox \
-  slack
+  slack \
+  telegram
 ```
 
 ### 4. Other, automatic
