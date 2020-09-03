@@ -24,7 +24,8 @@ brew cask install \
   homebrew/cask/visual-studio-code \
   homebrew/cask/hyper \
   homebrew/cask/docker \
-  homebrew/cask/jetbrains-toolbox
+  homebrew/cask/jetbrains-toolbox \
+  slack
 ```
 
 ### 4. Other, automatic
