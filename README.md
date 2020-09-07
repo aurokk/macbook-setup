@@ -13,8 +13,7 @@ brew install \
   doctl \
   azure-cli \
   kubectl \
-  zsh-autosuggestions \
-  dotnet-sdk
+  zsh-autosuggestions
 ```
 
 ### 3. Install casks
@@ -28,7 +27,8 @@ brew cask install \
   slack \
   telegram \
   transmission \
-  spotify
+  spotify \
+  dotnet-sdk
 ```
 
 ### 4. Other, automatic
