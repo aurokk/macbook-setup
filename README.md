@@ -32,7 +32,7 @@ brew cask install \
   dotnet-sdk
 ```
 
-### 4. Other, automatic
+### 4. Other
 ```
 xcode-select --install
 ```
