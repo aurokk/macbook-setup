@@ -27,7 +27,8 @@ brew cask install \
   homebrew/cask/jetbrains-toolbox \
   slack \
   telegram \
-  transmission
+  transmission \
+  spotify
 ```
 
 ### 4. Other, automatic
