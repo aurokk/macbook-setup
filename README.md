@@ -37,7 +37,6 @@ brew cask install \
 xcode-select --install
 ```
 
-### 5. Other, manual
 ```
 https://dist.scaleft.com/client-tools/mac/latest/ScaleFT.pkg
 ```
@@ -47,7 +46,16 @@ git config --global user.name "Dmitrii Kochnev"
 git config --global user.email "aurokkez@gmail.com"
 ```
 
-### 6. Other actions
+```
+sft enroll --team dodopizza
+sft login
+```
+
+```
+mkdir -p ~/.ssh && chmod 700 ~/.ssh
+sft ssh-config >> ~/.ssh/config
+```
+
 1. Install Rider
 2. Install DataGrip
 3. Add `source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh` to `~/.zshrc`
