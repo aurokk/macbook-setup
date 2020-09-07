@@ -41,6 +41,11 @@ xcode-select --install
 https://dist.scaleft.com/client-tools/mac/latest/ScaleFT.pkg
 ```
 
+```
+git config --global user.name "Dmitrii Kochnev"
+git config --global user.email "aurokkez@gmail.com"
+```
+
 ### 6. Other actions
 1. Install Rider
 2. Install DataGrip
