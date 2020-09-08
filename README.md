@@ -60,3 +60,4 @@ sft ssh-config >> ~/.ssh/config
 2. Install DataGrip
 3. Add `source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh` to `~/.zshrc`
 4. Change hostname `https://support.apple.com/en-gb/guide/mac-help/mchlp2322/mac`
+5. Network preferences, advanced, dns — 8.8.8.8, 8.8.4.4, search domains — legacy.dev.net
