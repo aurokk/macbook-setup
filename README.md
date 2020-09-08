@@ -29,6 +29,7 @@ brew cask install \
   telegram \
   transmission \
   spotify \
+  azure-data-studio \
   dotnet-sdk
 ```
 
