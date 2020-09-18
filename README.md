@@ -50,6 +50,7 @@ git config --global user.email "aurokkez@gmail.com"
 ```
 sft enroll --team dodopizza
 sft login
+sft config rdp.screensize 1440x900
 ```
 
 ```
