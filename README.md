@@ -14,7 +14,9 @@ brew install \
   azure-cli \
   kubectl \
   zsh-autosuggestions \
-  sshuttle
+  sshuttle \
+  node \
+  yarn
 ```
 
 ### 3. Install casks
