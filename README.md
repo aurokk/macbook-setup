@@ -32,7 +32,8 @@ brew cask install \
   transmission \
   spotify \
   azure-data-studio \
-  dotnet-sdk
+  dotnet-sdk \
+  1password
 ```
 
 ### 4. Other
