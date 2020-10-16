@@ -16,7 +16,9 @@ brew install \
   zsh-autosuggestions \
   sshuttle \
   node \
-  yarn
+  yarn \
+  ffmpeg \
+  gifsicle
 ```
 
 ### 3. Install casks
