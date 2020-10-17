@@ -36,7 +36,8 @@ brew cask install \
   azure-data-studio \
   dotnet-sdk \
   1password \
-  drawio
+  drawio \
+  vlc
 ```
 
 ### 4. Other
