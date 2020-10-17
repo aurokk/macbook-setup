@@ -35,7 +35,8 @@ brew cask install \
   spotify \
   azure-data-studio \
   dotnet-sdk \
-  1password
+  1password \
+  drawio
 ```
 
 ### 4. Other
