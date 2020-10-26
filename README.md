@@ -37,7 +37,8 @@ brew cask install \
   dotnet-sdk \
   1password \
   drawio \
-  vlc
+  vlc \
+  postman
 ```
 
 ### 4. Other
