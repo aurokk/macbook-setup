@@ -39,7 +39,8 @@ brew cask install \
   drawio \
   vlc \
   postman \
-  flutter
+  flutter \
+  cocoapods
 ```
 
 ### 4. Other
