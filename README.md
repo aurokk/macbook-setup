@@ -38,7 +38,8 @@ brew cask install \
   1password \
   drawio \
   vlc \
-  postman
+  postman \
+  flutter
 ```
 
 ### 4. Other
