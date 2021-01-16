@@ -39,13 +39,16 @@ brew cask install \
   drawio \
   vlc \
   postman \
-  flutter \
-  cocoapods
+  flutter
 ```
 
 ### 4. Other
 ```
 xcode-select --install
+```
+
+```
+sudo gem install cocoapods
 ```
 
 ```
