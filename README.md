@@ -18,7 +18,8 @@ brew install \
   node \
   yarn \
   ffmpeg \
-  gifsicle
+  gifsicle \
+  kubectx
 ```
 
 ### 3. Install casks
