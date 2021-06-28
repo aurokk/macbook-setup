@@ -22,9 +22,9 @@ brew install \
   kubectx
 ```
 
-### 3. Install casks
+### 3. Install ui software
 ```
-brew cask install \
+brew install \
   homebrew/cask/google-chrome \
   homebrew/cask/visual-studio-code \
   homebrew/cask/hyper \
