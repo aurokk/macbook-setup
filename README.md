@@ -40,8 +40,7 @@ brew install \
   drawio \
   vlc \
   postman \
-  flutter \
-  outline
+  flutter
 ```
 
 ### 4. Other
@@ -55,6 +54,10 @@ sudo gem install cocoapods
 
 ```
 https://dist.scaleft.com/client-tools/mac/latest/ScaleFT.pkg
+```
+
+```
+https://getoutline.org/ru/
 ```
 
 ```
