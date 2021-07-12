@@ -40,7 +40,8 @@ brew install \
   drawio \
   vlc \
   postman \
-  flutter
+  flutter \
+  outline
 ```
 
 ### 4. Other
