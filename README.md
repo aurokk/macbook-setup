@@ -32,7 +32,7 @@ brew install \
   homebrew/cask/jetbrains-toolbox \
   slack \
   telegram \
-  transmission \
+  homebrew/cask/transmission \
   spotify \
   azure-data-studio \
   dotnet-sdk \
