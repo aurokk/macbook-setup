@@ -19,7 +19,8 @@ brew install \
   yarn \
   ffmpeg \
   gifsicle \
-  kubectx
+  kubectx \
+  erlang
 ```
 
 ### 3. Install ui software
