@@ -20,7 +20,8 @@ brew install \
   ffmpeg \
   gifsicle \
   kubectx \
-  jsonnet
+  jsonnet \
+  fig
 ```
 
 ### 3. Install ui software
