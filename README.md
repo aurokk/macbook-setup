@@ -10,6 +10,12 @@
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
+### configure git
+```
+git config --global user.name "Dmitrii Kochnev"
+git config --global user.email "aurokkez@gmail.com"
+```
+
 ### generic formulas
 ```
 brew install \
@@ -18,8 +24,14 @@ brew install \
   kubectx \
   node \
   yarn \
-  ffmpeg
+  ffmpeg \
+  cocoapods \
+  zsh-autosuggestions \
+  doctl
+```
 
+### generic casks
+```
 brew install \
   homebrew/cask/google-chrome \
   homebrew/cask/visual-studio-code \
@@ -33,26 +45,14 @@ brew install \
   1password \
   vlc \
   postman \
-  flutter
+  flutter \
+  outline \
+  outline-manager
 ```
 
 ### other software
 ```
 xcode-select --install
-```
-
-```
-sudo gem install cocoapods
-```
-
-```
-https://getoutline.org/ru/
-```
-
-### configure git
-```
-git config --global user.name "Dmitrii Kochnev"
-git config --global user.email "aurokkez@gmail.com"
 ```
 
 
