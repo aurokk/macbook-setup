@@ -46,7 +46,6 @@ brew install \
   vlc \
   postman \
   flutter \
-  outline \
   outline-manager
 ```
 
