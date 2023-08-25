@@ -55,7 +55,7 @@ brew install \
 xcode-select --install
 ```
 
-### change hostname 
+### hostname 
 ```
 https://support.apple.com/en-gb/guide/mac-help/mchlp2322/mac
 ```
