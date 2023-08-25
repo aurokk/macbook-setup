@@ -1,9 +1,60 @@
 # macbook-setup
 
-### 1. Brew
+### brew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+
+### ssh key for github
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+### generic formulas
+```
+brew install \
+  git \
+  kubectl \
+  kubectx \
+  node \
+  yarn \
+  ffmpeg
+
+brew install \
+  homebrew/cask/google-chrome \
+  homebrew/cask/visual-studio-code \
+  homebrew/cask/hyper \
+  homebrew/cask/docker \
+  homebrew/cask/jetbrains-toolbox \
+  homebrew/cask/transmission \
+  telegram \
+  spotify \
+  dotnet-sdk \
+  1password \
+  vlc \
+  postman \
+  flutter
+```
+
+### other software
+```
+xcode-select --install
+```
+
+```
+sudo gem install cocoapods
+```
+
+```
+https://getoutline.org/ru/
+```
+
+### configure git
+```
+git config --global user.name "Dmitrii Kochnev"
+git config --global user.email "aurokkez@gmail.com"
+```
+
 
 ### 2. Install formulas
 ```
