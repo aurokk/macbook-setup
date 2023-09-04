@@ -27,7 +27,8 @@ brew install \
   ffmpeg \
   cocoapods \
   zsh-autosuggestions \
-  doctl
+  doctl \
+  rar
 ```
 
 ### generic casks
