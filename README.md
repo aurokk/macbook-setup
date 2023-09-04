@@ -28,7 +28,7 @@ brew install \
   cocoapods \
   zsh-autosuggestions \
   doctl \
-  rar
+  keka
 ```
 
 ### generic casks
