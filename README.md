@@ -28,7 +28,8 @@ brew install \
   cocoapods \
   zsh-autosuggestions \
   doctl \
-  keka
+  keka \
+  ngrok
 ```
 
 ### generic casks
