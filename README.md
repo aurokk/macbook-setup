@@ -29,8 +29,7 @@ brew install \
   zsh-autosuggestions \
   doctl \
   keka \
-  ngrok \
-  openapi-generator
+  ngrok
 ```
 
 ### generic casks
