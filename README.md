@@ -30,7 +30,8 @@ brew install \
   doctl \
   keka \
   ngrok \
-  helm
+  helm \
+  yq
 ```
 
 ### generic casks
