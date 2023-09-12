@@ -31,8 +31,7 @@ brew install \
   keka \
   ngrok \
   helm \
-  yq \
-  minikube
+  yq
 ```
 
 ### generic casks
