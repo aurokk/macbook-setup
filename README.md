@@ -29,7 +29,8 @@ brew install \
   zsh-autosuggestions \
   doctl \
   keka \
-  ngrok
+  ngrok \
+  helm
 ```
 
 ### generic casks
